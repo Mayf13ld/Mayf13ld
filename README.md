@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mayf13ld
+- 👋 Hi, I’m @Mayf13ld AKA Mayf
 - 👀 I’m interested in all aspects of computing
 - 🌱 I’m currently learning how to teach programming using Python and C# with my students
 - 💞️ I’m looking to collaborate on pedegogy
